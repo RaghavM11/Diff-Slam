@@ -1,0 +1,10 @@
+
+#use venv 
+#conda not recommended
+torch
+torchvision
+torchaudio
+opencv-python
+tqdm
+pandas
+scipy
