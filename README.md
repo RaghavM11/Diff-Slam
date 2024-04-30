@@ -28,9 +28,7 @@ Tested on:
 Install requriments using : 
 
 ```
-
 pip install -r /path/to/requirements.txt
-
 ```
 ## Installation via Anaconda
 
@@ -42,7 +40,6 @@ conda create -n myenv python=3.9
 
 ```
 conda activate myenv
-
 ```
 3. Install dependecies in conda env following Via Installation Script 
 
