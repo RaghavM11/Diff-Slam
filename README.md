@@ -56,13 +56,24 @@ If you find part of this work useful please cite applications and please conside
 
 For citing original work by authors refer the following BibTeX entry.
 
-```BibTeX
-@article{jiang2023vad,
-  title={Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation},
-  author={Peter Karkus Shaojun Cai David Hsu},
-  journal={CVPR},
-  year={2021}
+```BIBTEX
+
+@article{DBLP:journals/corr/abs-2105-07593,
+  author       = {P{\'{e}}ter Karkus and
+                  Shaojun Cai and
+                  David Hsu},
+  title        = {Differentiable SLAM-net: Learning Particle {SLAM} for Visual Navigation},
+  journal      = {CoRR},
+  volume       = {abs/2105.07593},
+  year         = {2021},
+  url          = {https://arxiv.org/abs/2105.07593},
+  eprinttype    = {arXiv},
+  eprint       = {2105.07593},
+  timestamp    = {Tue, 18 May 2021 18:46:40 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2105-07593.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
 ```
 
 ## License
