@@ -46,7 +46,7 @@ conda activate myenv
 ```
 3. Install dependecies in conda env following Via Installation Script 
 
-```
+
 
 ## Contact
 If you have any questions or suggestions about this repo, please feel free to contact (imraghav@umich.edu).
